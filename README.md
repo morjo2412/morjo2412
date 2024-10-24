@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 👋 my name is Jorge Montes
+
+I am an undergraduate student in technology with a strong background in programming, electronics, and embedded systems. Currently, I am developing my thesis on 2D materials, where I specialize in the synthesis and characterization of two-dimensional materials. My research experience includes various projects in this field, which has allowed me to acquire advanced skills in handling laboratory equipment and techniques
 
 <!--
-**morjo2412/morjo2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
